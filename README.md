@@ -60,6 +60,7 @@
    40. [Word Pattern](https://leetcode.com/problems/word-pattern/) - Date: [2024-05-21]
 
 5. **Tree**
+   ## Tree Questions
    41. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - Date: [2024-05-22]
    42. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) - Date: [2024-05-23]
    43. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) - Date: [2024-05-24]
@@ -72,6 +73,7 @@
    50. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - Date: [2024-05-31]
 
 6. **Heap**
+   ## Heap Questions
    51. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Date: [2024-06-01]
    52. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Date: [2024-06-02]
    53. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) - Date: [2024-06-03]
@@ -84,6 +86,7 @@
    60. [Design Median of a Data Stream](https://leetcode.com/pro
 
 7. **Graph**
+   ## Graph Questions
    61. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Date: [2024-06-11]
    62. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) - Date: [2024-06-12]
    63. [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) - Date: [2024-06-13]
@@ -96,6 +99,7 @@
    70. [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/) - Date: [2024-06-20]
 
 8. **String**
+   ## String Questions
    71. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - Date: [2024-06-21]
    72. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Date: [2024-06-22]
    73. [Reverse String](https://leetcode.com/problems/reverse-string/) - Date: [2024-06-23]
@@ -108,6 +112,7 @@
    80. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) - Date: [2024-06-30]
 
 9. **Two pointers**
+   ## Two pointers Questions
    81. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - Date: [2024-07-01]
    82. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Date: [2024-07-02]
    83. [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) - Date: [2024-07-03]
@@ -120,6 +125,7 @@
    90. [Minimum Size Subarray Sum II](https://leetcode.com/problems/minimum-size-subarray-sum-ii/) - Date: [2024-07-10]
 
 10. **Binary Search**
+    ## Binary Search Questions
    91. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - Date: [2024-07-11]
    92. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) - Date: [2024-07-12]
    93. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - Date: [2024-07-13]
@@ -132,6 +138,7 @@
    100. [Median of Two Sorted Arrays II](https://leetcode.com/problems/median-of-two-sorted-arrays-ii/) - Date: [2024-07-20]
 
 11. **Divide and Conquer**
+    ## Divide and Conquer Questions
     101. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - Date: [2024-07-21]
     102. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) - Date: [2024-07-22]
     103. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Date: [2024-07-23]
@@ -144,6 +151,7 @@
     110. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) - Date: [2024-07-30]
 
 12. **BFS and DFS**
+    ## BFS and DFS Questions
     111. [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) - Date: [2024-08-01]
     112. [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) - Date: [2024-08-02]
     113. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) - Date: [2024-08-03]
@@ -156,6 +164,7 @@
     120. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - Date: [2024-08-10]
 
 13. **Backtracking and Recursion**
+    ## Backtracking and Recursion Questions
     121. [Subsets](https://leetcode.com/problems/subsets/) - Date: [2024-08-11]
     122. [Combination Sum](https://leetcode.com/problems/combination-sum/) - Date: [2024-08-12]
     123. [Permutations](https://leetcode.com/problems/permutations/) - Date: [2024-08-13]
@@ -167,6 +176,7 @@
     129. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) - Date: [2024-08-19]
     130. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) - Date: [2024-08-20]
 14. **Sliding Window**
+    ## Sliding Window Questions
     131. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Date: [2024-08-21]
     132. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) - Date: [2024-08-22]
     133. [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) - Date: [2024-08-23]
@@ -179,6 +189,7 @@
     140. [Longest Substring of Two Distinct Characters](https://leetcode.com/problems/longest-substring-of-two-distinct-characters/) - Date: [2024-08-30]
 
 15. **Dynammic Programming**
+    ## Dynammic Programming Questions
     141. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - Date: [2024-08-31]
     142. [House Robber](https://leetcode.com/problems/house-robber/) - Date: [2024-09-01]
     143. [House Robber II](https://leetcode.com/problems/house-robber-ii/) - Date: [2024-09-02]
@@ -191,6 +202,7 @@
     150. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) - Date: [2024-09-09]
 
 16. **Greedy Algorithm**
+    ## Greedy Algorithm Questions
     151. [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) - Date: [2024-09-10]
     152. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) - Date: [2024-09-11]
     153. [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) - Date: [2024-09-12]
@@ -203,6 +215,7 @@
     160. [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) - Date: [2024-09-19]
 
 17. **Math**
+    ## Math Questions
     161. [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) - Date: [2024-09-20]
     162. [Count Good Rectangles](https://leetcode.com/problems/count-good-rectangles/) - Date: [2024-09-21]
     163. [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) - Date: [2024-09-22]
@@ -215,6 +228,7 @@
     170. [Count Nodes With Given XOR in a Binary Tree](https://leetcode.com/problems/count-nodes-with-given-xor-in-a-binary-tree/) - Date: [2024-09-29]
 
 18. **Bit Manipulation**
+    ## Bit Manipulation Questions
     171. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) - Date: [2024-09-30]
     172. [Hamming Distance](https://leetcode.com/problems/hamming-distance/) - Date: [2024-10-01]
     173. [Single Number](https://leetcode.com/problems/single-number/) - Date: [2024-10-02]
