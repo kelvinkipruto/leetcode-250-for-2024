@@ -21,6 +21,7 @@
     10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Date: [2024-04-21]
 
 2. **Linked List**
+   ## Linked List Questions
    11. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Date: [2024-04-22]
    12. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) - Date: [2024-04-23]
    13. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Date: [2024-04-24]
@@ -33,6 +34,7 @@
    20. [Partition List](https://leetcode.com/problems/partition-list/) - Date: [2024-05-01]
 
 3. **Stack and Queue**
+   ## Stack and Queue Questions
    21. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - Date: [2024-05-02]
    22. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - Date: [2024-05-03]
    23. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) - Date: [2024-05-04]
@@ -45,6 +47,7 @@
    30. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - Date: [2024-05-11]
 
 4. **Hash Table**
+   ## Hash Table Questions
    31. [Two Sum](https://leetcode.com/problems/two-sum/) - Date: [2024-05-12]
    32. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - Date: [2024-05-13]
    33. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Date: [2024-05-14]
