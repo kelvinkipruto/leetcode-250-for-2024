@@ -1,4 +1,4 @@
-
+import { ListNode } from "../__types/LinkedList";
 
 function reverseList(head: ListNode | null): ListNode | null {
     let prev = null;

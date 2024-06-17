@@ -1,12 +1,6 @@
+import { ListNode } from "../__types/LinkedList";
 
-class ListNode {
-    val: number;
-    next: ListNode | null;
-    constructor(val?: number, next?: ListNode | null) {
-        this.val = val ?? 0;
-        this.next = next ?? null;
-    }
-}
+
 
 
 function getIntersectionNode(headA: ListNode | null, headB: ListNode | null): ListNode | null {
